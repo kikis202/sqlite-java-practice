@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="716b2db4-942b-4faa-ac9a-19cf8bb49699" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/sqlite/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/sqlite/Update.java" afterDir="false" />
+    <list default="true" id="716b2db4-942b-4faa-ac9a-19cf8bb49699" name="Changes" comment="Update table contents">
+      <change afterPath="$PROJECT_DIR$/db/chinook.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/sqlite/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sqlite/Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/sqlite/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sqlite/Update.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +44,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krist\git\sqlitetutorial\db" />
       <recent name="C:\Users\krist\git\sqlitetutorial\src\main\resources" />
       <recent name="C:\Users\krist\git\sqlitetutorial\src\main\java\net\sqlite" />
       <recent name="C:\Users\krist\git\sqlitetutorial\src\main\java\net" />
@@ -96,8 +93,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661339857646</updated>
-      <workItem from="1661339859082" duration="3222000" />
+      <workItem from="1661339859082" duration="3678000" />
     </task>
+    <task id="LOCAL-00001" summary="Added dependencies for SQLite">
+      <created>1661343209038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661343209038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created connection to existing SQLite db">
+      <created>1661343227481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661343227481</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update table contents">
+      <created>1661343290168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661343290168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +132,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added dependencies for SQLite" />
+    <MESSAGE value="Created connection to existing SQLite db" />
+    <MESSAGE value="Update table contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update table contents" />
   </component>
 </project>

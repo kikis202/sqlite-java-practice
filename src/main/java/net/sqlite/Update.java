@@ -48,7 +48,7 @@ public class Update {
 
     public static void main(String[] args) {
         Update app = new Update();
-        app.createConnection("D:/SQLiteDB/sample/chinook.db");
+        app.createConnection("C:/Users/krist/git/sqlitetutorial/db/chinook.db");
         app.updateAlbum(2, "Balls to the Wall!", 1);
         app.close();
     }
